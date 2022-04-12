@@ -10,7 +10,7 @@
 conda env create -f flask.yml
 ```
 
-## Pindah Ke Environment yang Telah Di-install
+## Mengaktifkan Environtment
 ```
 conda activate flask
 ```
